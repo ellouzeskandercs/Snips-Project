@@ -1,4 +1,4 @@
-#Projet Snips:
+# Projet Snips:
 Le but de ce projet est de créer un assistant de bureau utilisant la reconnaissance vocale et faciale. 
 
 ## Matériel utilisé: 
